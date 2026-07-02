@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Library.DomainService.csproj" Id="b56566a0-e0ad-4489-933a-3327142c1b87" />
+  <Project Path="Library.ServerHost/Library.ServerHost.csproj" Id="57f039a5-e0dc-4cf4-8f80-4be7736353e3" />
+</Solution>
